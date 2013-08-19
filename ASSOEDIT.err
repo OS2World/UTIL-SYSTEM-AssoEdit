@@ -1,0 +1,18 @@
+Open Watcom C32 Optimizing Compiler Version 1.9
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+.\ASSOEDIT.c(195): Warning! W102: Type mismatch (warning)
+.\ASSOEDIT.c(195): Note! N2003: source conversion type is 'void *'
+.\ASSOEDIT.c(195): Note! N2004: target conversion type is 'unsigned long '
+.\ASSOEDIT.c(812): Warning! W102: Type mismatch (warning)
+.\ASSOEDIT.c(812): Note! N2003: source conversion type is 'void *'
+.\ASSOEDIT.c(812): Note! N2004: target conversion type is 'unsigned long '
+.\ASSOEDIT.c(1514): Warning! W102: Type mismatch (warning)
+.\ASSOEDIT.c(1514): Note! N2003: source conversion type is 'void *'
+.\ASSOEDIT.c(1514): Note! N2004: target conversion type is 'unsigned long '
+.\ASSOEDIT.c(1520): Warning! W102: Type mismatch (warning)
+.\ASSOEDIT.c(1520): Note! N2003: source conversion type is 'void *'
+.\ASSOEDIT.c(1520): Note! N2004: target conversion type is 'unsigned long '
+.\ASSOEDIT.c: 1525 lines, included 16163, 4 warnings, 0 errors
+Code size: 8526
